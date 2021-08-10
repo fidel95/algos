@@ -15,4 +15,4 @@ return [0,1]
 
 ###### references:
 
-(Stanford website) [https://web.stanford.edu/class/cs9/sample_probs/TwoSum.pdf]
+[Stanford website](https://web.stanford.edu/class/cs9/sample_probs/TwoSum.pdf)
